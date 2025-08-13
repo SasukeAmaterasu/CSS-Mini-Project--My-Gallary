@@ -16,3 +16,7 @@ A simple and responsive sidebar menu built using **HTML** and **CSS**, featuring
 - Google Fonts (Poppins)
 
 ## 📂 Project Structure
+project-folder/
+│── index.html # Main HTML file
+│── style.css # Stylesheet
+│── photo.jpg # Background image
